@@ -46,4 +46,4 @@ testem.log
 Thumbs.db
 
 # VS Files
-.vs/*
+/.vs/*
